@@ -1,0 +1,6 @@
+apply plugin: 'checkstyle'
+
+checkstyle {
+  configFile = new File(rootDir, "config/checkstyle.xml")
+  sourceSets = [sourceSets.main]
+}
