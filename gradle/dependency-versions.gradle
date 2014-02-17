@@ -2,6 +2,7 @@
 ext {
   guavaVersion = '16.0.1'
   jodaTimeVersion = '2.3'
+  junitVersion = '4.11'
   logbackVersion = '1.1.1'
   slf4jVersion = '1.7.6'
   springFrameworkVersion = '4.0.1.RELEASE'
