@@ -1,6 +1,6 @@
 
 ext {
-  commonsCodec = '1.9'
+  commonsCodecVersion = '1.9'
   guavaVersion = '16.0.1'
   jodaTimeVersion = '2.3'
   junitVersion = '4.11'
