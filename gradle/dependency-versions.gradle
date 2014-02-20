@@ -12,6 +12,6 @@ ext {
   springFrameworkVersion = '4.0.2.RELEASE'
   springSecurityVersion = '3.2.0.RELEASE'
   tkmtwoUtilityVersion = '1.0.1'
-  tkmtwoTimexVersion = '1.2.4'
+  tkmtwoTimexVersion = '1.3.0'
   xercesVersion = '2.11.0'
 }
