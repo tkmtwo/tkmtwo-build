@@ -6,6 +6,8 @@ ext {
   jodaTimeVersion = '2.3'
   junitVersion = '4.11'
   logbackVersion = '1.1.1'
+  mockitoVersion = '1.9.5'
+  mybatisVersion = '3.2.5'
   slf4jVersion = '1.7.6'
   springFrameworkVersion = '4.0.2.RELEASE'
   springSecurityVersion = '3.2.0.RELEASE'
