@@ -14,6 +14,7 @@ ext {
   springSecurityVersion = '3.2.3.RELEASE'
   tkmtwoInterpolateVersion = '1.2.0'
   tkmtwoUtilityVersion = '1.0.1'
+  tkmtwoSarapiVersion = '0.5.3'
   tkmtwoTimexVersion = '1.4.0'
   xercesVersion = '2.11.0'
   xstreamVersion = '1.4.7'
