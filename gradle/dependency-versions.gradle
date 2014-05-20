@@ -2,7 +2,7 @@
 ext {
   commonsCodecVersion = '1.9'
   commonsPoolVersion = '1.6'
-  guavaVersion = '16.0.1'
+  guavaVersion = '17.0'
   jacksonVersion = '2.3.2'
   jodaTimeVersion = '2.3'
   junitVersion = '4.11'
