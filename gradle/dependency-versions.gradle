@@ -11,7 +11,7 @@ ext {
   mockitoVersion = '1.9.5'
   mybatisVersion = '3.2.5'
   slf4jVersion = '1.7.7'
-  springFrameworkVersion = '4.1.1.RELEASE'
+  springFrameworkVersion = '4.0.7.RELEASE'
   springSecurityVersion = '3.2.5.RELEASE'
   tkmtwoInterpolateVersion = '1.2.0'
   tkmtwoUtilityVersion = '1.0.1'
